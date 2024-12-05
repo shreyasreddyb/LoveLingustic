@@ -4,6 +4,7 @@ Love Linguist is an AI-powered chat analysis tool that helps you decode the subt
 
 ![Love Linguist Screenshot](https://images.unsplash.com/photo-1516534775068-ba3e7458af70?auto=format&fit=crop&q=80&w=2070)
 
+try it yourself at https://love-lingustic.vercel.app/
 ## Features
 
 - 💌 **Interest Level Analysis**: Understand how interested they might be
